@@ -139,6 +139,7 @@ public class Preferences {
     public static final String ALLOW_BELAZAR_TRANSLATE = "allow_belazar_translate";
 
     public static final String ALLOW_APERTIUM_TRANSLATE = "allow_apertium_translate";
+    public static final String ALLOW_OLANTO_TRANSLATE = "allow_olanto_translate";
 
     public static final String ALLOW_MICROSOFT_TRANSLATE = "allow_microsoft_translate";
 
