@@ -1,0 +1,23 @@
+How to install
+--------------
+
+- download OmegaT install
+
+http://srv1.olanto.org/download/omegaT/OmegaT_2.6.3_06_Windows_without_JRE.exe
+
+-install OmegaT
+
+- download modified jar
+
+http://srv1.olanto.org/download/omegaT/OmegaT.jar
+
+Copy and replace this jar into C:\Program Files (x86)\OmegaT
+
+Test myMT
+---------
+
+Works only for en-fr or fr-en
+
+enable myMT
+-----------
+menu:Option / item: Machine Translate / sub-item: Olanto
