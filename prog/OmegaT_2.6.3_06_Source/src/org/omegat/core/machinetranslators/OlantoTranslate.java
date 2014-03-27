@@ -47,9 +47,9 @@ public class OlantoTranslate extends BaseTranslate {
     //http://srv2.olanto.org/R1/translate/query?q=bonjour&key=CORPONU&source=fr&target=en
    //http://srv2.olanto.org/R1/translate/query?q=bonjour&key=CORPONU&source=#sourceLang#&target=#targetLang#
     
-    protected static String GT_URL = "http://srv2.olanto.org/R1/translate/query?q=";
+    protected static String GT_URL = "http://srvmosesfront1/R1/translate/query?q=";
     // Specific OmegaT key
-    protected static String GT_URL2 = "&key=CORPONU&source=#sourceLang#&target=#targetLang#";
+    protected static String GT_URL2 = "&key=CERN&source=#sourceLang#&target=#targetLang#";
     protected static String MARK_BEG = "\"translatedText\":\"";
                                            
     protected static String MARK_END = "\"}";
